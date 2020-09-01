@@ -154,5 +154,7 @@ function displayAllUsers(){
             }
         
         }
+
+        echo 'mise à jour';
         
         
